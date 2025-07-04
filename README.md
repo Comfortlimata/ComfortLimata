@@ -48,7 +48,7 @@ If you're looking for someone who’s committed, fast-learning, and understands 
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/comfortlimata
 - 💌 Email: comfortlimata@gmail.com
-- 🖥️ GitHub: https://github.com/Comfortlimata
+- 🖥️ GitHub: https://www.linkedin.com/in/comfort-limata-b44574356
 
 ---
 

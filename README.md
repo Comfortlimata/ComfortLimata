@@ -2,8 +2,10 @@
 
 **Innovative. Curious. Purpose-driven.**  
 Welcome to my digital space!
+3rd‑year Information Systems & Technology Student | Web Developer | Open to Remote & Internship Roles
 
-I’m a third-year **Information Systems and Technology** student at the **University of Lusaka**, Zambia. I build software that solves real problems for real people — especially in areas like education, retail, and business management.
+
+ **Information Systems and Technology** student at the **University of Lusaka**, Zambia. I build software that solves real problems for real people — especially in areas like education, retail, and business management.
 
 ---
 

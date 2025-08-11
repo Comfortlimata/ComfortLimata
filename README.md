@@ -1,58 +1,56 @@
-# 👋 Hi, I'm Comfort Limata
+# 👋 Hi, I'm Comfort Limata!
 
-**Innovative. Curious. Purpose-driven.**  
-Welcome to my digital space!
-3rd‑year Information Systems & Technology Student | Web Developer | Open to Remote & Internship Roles
-
-
- **Information Systems and Technology** student at the **University of Lusaka**, Zambia. I build software that solves real problems for real people — especially in areas like education, retail, and business management.
+🎓 **Third-year Information Systems & Technology student** at [University Name], Lusaka, Zambia  
+🌍 Passionate about building digital solutions for local and global impact  
+🚀 Open to remote internships, entry-level roles, and collaborative projects
 
 ---
 
-## 💡 What Drives Me
+## 💻 Skills & Tools
 
-Growing up in Zambia, I’ve always been fascinated by how technology can simplify complex problems — whether it's helping a small shop track stock or enabling students to learn online. I turn those ideas into real, working systems using **PHP, MySQL, JavaScript**, and clean design.
-
-> 💬 “I don’t just code for fun — I code with a purpose.”
-
----
-
-## 🛠 Tech & Tools I Work With
-
-- **Languages:** PHP, HTML, CSS, JavaScript, SQL  
-- **Frameworks/Libraries:** Bootstrap, AJAX  
-- **Databases:** MySQL  
-- **Tools:** Git & GitHub, XAMPP, VS Code, Sublime Text  
-- **Projects:** E-learning Platforms, Admin Dashboards, Login Systems
+- **Languages:** PHP, HTML, CSS, JavaScript, SQL
+- **Frameworks:** Bootstrap, jQuery
+- **Database:** MySQL, SQLite
+- **Tools:** Git, GitHub, XAMPP, Visual Studio Code
+- **Other:** UI/UX basics, Responsive Web Design, RESTful APIs
 
 ---
 
-## 📌 Projects That Reflect Me  
-🔹 **E-learning Platform** – With admin, teacher, and student roles for sharing materials and assignments  
-🔹 **Restaurant Website** – Stylish, mobile-friendly, and customized for a Zambian dining audience
+## 🛠️ Project Highlights
 
-Explore them in my pinned repositories!
+- **School E-learning Platform:**  
+  A web-based platform for students, teachers, and admins—secure login, document management, announcements, and more.  
+  _Stack: PHP, MySQL, HTML/CSS/JS_
 
----
+- **Restaurant Website (LimataEats):**  
+  Customer ordering, event display, admin dashboard, and more—designed for Zambian restaurants.  
+  _Stack: PHP, MySQL, HTML/CSS/JS_
 
-## 🌍 Open to Remote Opportunities
+- **Bar Sales App:**  
+  Desktop application for offline bar inventory and sales tracking, with reporting and receipt printing.  
+  _Stack: Python, Tkinter, SQLite_
 
-I'm actively seeking:
-- 💻 Remote internships
-- 👨‍💻 Junior developer roles
-- 🎯 Freelance website projects
-
-If you're looking for someone who’s committed, fast-learning, and understands how to build for local and global needs — I’m ready.
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/comfortlimata
-- 💌 Email: comfortlimata@gmail.com
-- 🖥️ GitHub: https://www.linkedin.com/in/comfort-limata-b44574356
+- **Clinic Inventory System:**  
+  Medicine management, expiry tracking, and calendar view for clinics.  
+  _Stack: Python, Tkinter, SQLite_
 
 ---
 
-> *“Technology is only useful when it solves real human problems — that’s what I build for.”*
+## 📈 What I’m Looking For
 
+- Remote internships or junior developer roles
+- Collaboration on open-source or social impact projects
+- Mentorship and networking opportunities within tech
+
+---
+
+## 📬 Let's Connect!
+
+- **Email:** comfortlimata@gmail.com
+- **LinkedIn:** [linkedin.com/in/comfortlimata](https://linkedin.com/in/comfortlimata)
+- **GitHub:** [github.com/Comfortlimata](https://github.com/Comfortlimata)
+- **Location:** Lusaka, Zambia
+
+---
+
+_“Code is a tool for change—let’s build something meaningful together!”_

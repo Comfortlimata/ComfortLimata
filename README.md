@@ -1,82 +1,95 @@
-# Comfort Limata
+# Hey, I'm Comfort Limata 👋🏾✨
 
-**Information Systems & Technology** | Lusaka, Zambia  
-Open to Remote Opportunities | Available Immediately
+**`Digital Craftsman (Developer • Problem Solver • Tech Enthusiast)`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-profile](https://linkedin.com/in/comfort-limata-b44574356))
-[![Email](https://img.shields.io/badge/Email-Contact-red)]comfortlimata@gmail)
- 
----
+🎓 Final-year **Information Systems & Technology** student from **Lusaka, Zambia** 🇿🇲  
+💻 Building full-stack web apps & desktop solutions that actually solve real problems  
+🌍 Open to **Remote Opportunities** | Available **Immediately**
 
-## About Me
-
-Final-year Information Systems & Technology student with hands-on experience building full-stack web applications and desktop solutions. I specialize in creating practical, user-focused software—from e-learning platforms to inventory management systems.  Seeking opportunities to contribute to development teams while continuing to grow as a professional.
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | PHP, JavaScript, Python, SQL, HTML, CSS |
-| **Frameworks & Libraries** | Bootstrap, jQuery |
-| **Databases** | MySQL, SQLite |
-| **Tools & Platforms** | Git, GitHub, VS Code, XAMPP |
-| **Concepts** | RESTful APIs, Responsive Design, UI/UX Principles |
+<p align="left">
+  <a href="https://linkedin.com/in/comfort-limata-b44574356"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:comfortlimata@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Comfortlimata"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-## Featured Projects
+## 🧠 About Me
 
-### 📚 School E-Learning Platform
-A multi-role web application supporting students, teachers, and administrators with secure authentication, document management, and announcements.  
-**Tech:** PHP · MySQL · JavaScript · HTML/CSS  
-[View Repository](#) | [Live Demo](#)
-
-### 🍽️ LimataEats – Restaurant Management System
-End-to-end restaurant solution featuring customer ordering, event scheduling, and an admin dashboard—built for Zambian businesses.  
-**Tech:** PHP · MySQL · JavaScript · HTML/CSS  
-[View Repository](#) | [Live Demo](#)
-
-### 🍺 Bar Sales & Inventory Application
-Offline-capable desktop application for inventory tracking, sales reporting, and receipt generation.   
-**Tech:** Python · Tkinter · SQLite  
-[View Repository](#)
-
-### 🏥 Clinic Inventory Management System
-Medical inventory solution with stock tracking, expiry alerts, and calendar-based reporting for healthcare facilities.  
-**Tech:** Python · Tkinter · SQLite  
-[View Repository](#)
+```javascript
+const comfort = {
+  pronouns: "he/him",
+  location: "Lusaka, Zambia 🇿🇲",
+  currentFocus: "Full-Stack Development",
+  funFact: "I turn coffee ☕ into code",
+  lifePhilosophy: "Build practical solutions, one line at a time 🚀"
+};
+```
 
 ---
 
-## GitHub Activity
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Comfortlimata&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Comfortlimata&layout=compact&hide_border=true)
-
----
-
-## Let's Connect
-
-I'm actively seeking **remote internships**, **junior developer positions**, and **collaborative projects**. If you're working on something meaningful—especially in education, healthcare, or local business solutions—I'd love to hear from you. 
-
-📧 **Email:** [your.email@example.com](comfortlimata@gmail.com)  
-💼 **LinkedIn:** [linkedin. com/in/your-profile]([https://linkedin.com/in/your-profile](https://linkedin.com/in/comfort-limata-b44574356))  
-🌐 **Portfolio:** 
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-*"Building practical solutions, one line of code at a time."*
+## 🚀 Featured Projects
 
-## 📬 Let's Connect!
-
-- **Email:** comfortlimata@gmail.com
-- **LinkedIn:** [linkedin.com/in/comfortlimata](https://linkedin.com/in/comfortlimata)
-- **GitHub:** [github.com/Comfortlimata](https://github.com/Comfortlimata)
-- **Location:** Lusaka, Zambia
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📚 **School E-Learning Platform** | Multi-role web app with secure auth, doc management & announcements | `PHP` `MySQL` `JS` |
+| 🍽️ **LimataEats** | Restaurant management system with ordering, events & admin dashboard | `PHP` `MySQL` `JS` |
+| 🍺 **Bar Sales & Inventory** | Offline desktop app for inventory, sales reports & receipts | `Python` `Tkinter` `SQLite` |
+| 🏥 **Clinic Inventory System** | Medical stock tracking with expiry alerts & calendar reporting | `Python` `Tkinter` `SQLite` |
 
 ---
 
-_“Code is a tool for change—let’s build something meaningful together!”_
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Comfortlimata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comfortlimata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Comfortlimata&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
+</p>
+
+---
+
+## 🎯 Currently Seeking
+
+> 🔍 **Remote Internships** • **Junior Developer Roles** • **Collaborative Projects**
+
+Especially interested in **education tech**, **healthcare solutions**, and **local business tools** 🌍
+
+---
+
+## 📬 Let's Build Something Epic! 
+
+<p align="center">
+  <a href="mailto:comfortlimata@gmail.com">📧 comfortlimata@gmail.com</a> •
+  <a href="https://linkedin.com/in/comfort-limata-b44574356">💼 LinkedIn</a> •
+  <a href="https://github.com/Comfortlimata">🐙 GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Comfortlimata&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is a tool for change—let's build something meaningful together!"</i> 🚀
+</p>
